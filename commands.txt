@@ -23,3 +23,5 @@ sudo pip3 install google-cloud
 
 sudo pip3 install google-cloud-bigquery
 
+#start mage
+mage start <project name>
